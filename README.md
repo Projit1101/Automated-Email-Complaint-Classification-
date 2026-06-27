@@ -15,7 +15,7 @@ Duration: 4th May 2026 – 30th May 2026
 
 ## System Workflow
 
-``
+```
 Consumer Email
       ↓
 MySQL (email_parse table)
